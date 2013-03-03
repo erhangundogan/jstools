@@ -9,6 +9,7 @@ Useful functions for your node.js and javascript projects.
 - getRandomInt
 - toFixedDecimal
 - getUniqueId
+- getSafeUniqueId
 
 ## Installation
 

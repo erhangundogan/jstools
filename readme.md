@@ -8,6 +8,7 @@ Useful functions for your node.js and javascript projects.
 - isArray
 - getRandomInt
 - toFixedDecimal
+- getUniqueId
 
 ## Installation
 

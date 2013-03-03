@@ -2,7 +2,7 @@
   "name": "jstools",
   "description": "JavaScript tools",
   "keywords": ["javascript", "js", "tools"],
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "Erhan Gundogan <erhan.gundogan@gmail.com>",
   "repository": "git://github.com/erhangundogan/jstools",
   "main": "./index.js"

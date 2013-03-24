@@ -10,6 +10,7 @@ Useful functions for your node.js and javascript projects.
 - toFixedDecimal
 - getUniqueId
 - getSafeUniqueId
+- trim
 
 ## Installation
 
